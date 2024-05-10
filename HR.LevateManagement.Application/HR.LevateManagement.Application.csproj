@@ -17,7 +17,8 @@
 
   <ItemGroup>
     <Folder Include="Exception\" />
-    <Folder Include="Features\" />
+    <Folder Include="Features\LeaveType\Command\" />
+    <Folder Include="Features\LeaveType\Queries\GetDetailLeaveType\" />
   </ItemGroup>
 
 </Project>
